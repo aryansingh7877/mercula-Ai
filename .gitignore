@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups & Temp files
+*.bak
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db

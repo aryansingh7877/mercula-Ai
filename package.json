@@ -1,0 +1,8 @@
+{
+  "name": "mercura-app",
+  "version": "1.0.0",
+  "description": "Mercura AI - Local Development Server",
+  "scripts": {
+    "start": "python server.py"
+  }
+}
